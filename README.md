@@ -9,7 +9,15 @@
 
 
 
-## Key Performance Predictors(KPI's)
+### Key Performance Predictors(KPI's)
+- Number of people within global population who are only **partially** vaccinated against COVID 19
+- Number of people within global population who are **fully** vaccinated against COVID 19
+- Percentage of people within global population who are only **partially** vaccinated against COVID 19
+
+### Data Grouping and Visualisations
+- **Stacked bar chart** Vaccinated vs Fully Vaccinated Per Location
+- **Global Map** Geographical Vaccinations per hundred 
+- **Scatter Plot** Vaccinations per GDP
 
 
 ## Links 🔗
