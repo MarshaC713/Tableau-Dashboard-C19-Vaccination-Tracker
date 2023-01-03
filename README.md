@@ -41,6 +41,20 @@
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294098-a03508b0-5a2a-4133-9d7e-3b3bc4efb363.png">
 
+## Analysis 🔍
+Key figures for this region during the time period stated now change from the global overview outlined above to the following:
+### Key Figures
+- **KPI 1** 158,464,224
+- **KPI 2** 115,489,354
+- **KPI 3** 25.95%
+
+### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Key Facts: 
+- We can therefore deduce that: 
+- During the period between 4 Sept 2020 and 25 Oct 2021, **74.05%** of the ***South American*** population had recieved at least one Covid 19 vaccination dose
+- The number of people who were only **partially** vaccinated stood at 158,464,224 compared to the number of people within global population who are **fully** vaccinated, which stood at 115,489,354.
+- Therefore **42,974,870** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **27%.**
+ 
+
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294504-ae288f35-647d-4ff1-8694-68dd9c917bd1.png">
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
@@ -50,18 +64,7 @@
 
 <img width="600" alt="Screenshot 2023-01-03 at 01 55 01" src="https://user-images.githubusercontent.com/82414822/210294132-d759e9d5-15a7-40aa-b4dd-80a2c16b4fc2.png">
 
-## Analysis 🔍
-Key figures for this region during the time period stated now change from the global overview outlined above to the following:
-### Key Figures
-- **KPI 1** 
-- **KPI 2** 
-- **KPI 3** 
 
-### <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Key Facts: 
-- We can therefore deduce that: 
-- During the period between 4 Sept 2020 and 25 Oct 2021, **%** of the ***South American*** population had recieved at least one Covid 19 vaccination dose
- **897,578,271** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **23%.**
- 
 
 ## Links 🔗
 - Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
