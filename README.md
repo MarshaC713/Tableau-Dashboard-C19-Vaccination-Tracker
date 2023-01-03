@@ -33,12 +33,14 @@
 - We can therefore deduce that: 
 - During the period between 4 Sept 2020 and 25 Oct 2021, **48.74%** of the global population had recieved at least one Covid 19 vaccination dose
  **897,578,271** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **23%.**
-- `There is a strong correlation between the GDP per capita of a region and the number of its population that are fully vaccinated.
+- There is a strong correlation between the GDP per capita of a region and the number of its population that are fully vaccinated.
  
  ### Demo
  Dashboard filtered to show data for the Continent of South America only
  
 <img src="https://media.giphy.com/media/zbgxr4UG73MSOONhBx/giphy.gif" width="600" alt="Dashboard filtered to show data for South America only"/>
+
+### Static capture
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294098-a03508b0-5a2a-4133-9d7e-3b3bc4efb363.png">
 
@@ -56,7 +58,7 @@ Key figures for this region during the time period stated now change from the gl
 - Therefore **42,974,870** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **27%.**
 
  
-## Stacked Bar Chart - Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Country in South America
+### Stacked Bar Chart - Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Country in South America
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294504-ae288f35-647d-4ff1-8694-68dd9c917bd1.png">
 
@@ -67,13 +69,21 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 - We can also deduce that the disparity between full and ***partial*** vaccination in Venezuela is much higher than the top two vaccinated countries in that region, approximately triple that of Uruguay and just under double that of Chile.
 - Colombia ranks in the middle of the dataset. It is clearly depicted as the country with 6 countries, above it that have a greater percentage of their population vaccinated, and the same number of countries, performing worse than it, with a lower percentage of population vaccinated.
 
-## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
-<img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
+### Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
+
+### Map Navigation Demo
+
+<img width="600" alt="marshac713" src="https://media.giphy.com/media/azjFMrogwylHGwd4PR/giphy.gif">
+
+### Demo identifying countries of interest
+
+<img width="600" alt="marshac713" src="https://media.giphy.com/media/XpQNZKflGLH0vv9OId/giphy.gif">
+
 
 - The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green and Colombia depicted in a hue in the middle of the range of these two extremes.
 
 
-## Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
+###  Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294132-d759e9d5-15a7-40aa-b4dd-80a2c16b4fc2.png">
 
 - In the scatter plot above, countries in the region are represented by green circles, the data points and a red line of best fit runs through the data points to display the relationship between countries with high rates of vaccination and the GDP per Capita of that country.
