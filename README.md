@@ -71,11 +71,11 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 
 ### Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 
-### Map Navigation Demo
+ ### 1. Map Navigation Demo
 
 <img width="600" alt="marshac713" src="https://media.giphy.com/media/azjFMrogwylHGwd4PR/giphy.gif">
 
-### Demo identifying countries of interest
+### 2. Demo identifying countries of interest
 
 <img width="600" alt="marshac713" src="https://media.giphy.com/media/XpQNZKflGLH0vv9OId/giphy.gif">
 
