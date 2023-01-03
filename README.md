@@ -63,8 +63,8 @@ Key figures for this region during the time period stated now change from the gl
 - The visualisation above clearly depicts **Chile** as the South American country with the highest number of vaccinations, with **Uruguay** coming in second.
 - In Chile, **84.87%** of the population had recieved at least one dose of the Covid 19 vaccination, **76.14%** of which were fully vaccinated, only **8.73%** were partially vaccinated (only received one dose). 
 In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of those had been fully vaccinated, leaving only **4.09%** of those that had been vaccinated receiving one dose. 
-- This is in stark contrast to **Venezuela**, where only 34.58% of its total population had been vaccinated, of which 21.57% had received all doses (fully vaccinated), while 13.01% of those who had been vaccinated, only received one dose (partial vaccination). 
-- We can also deduce that the disparity between full and partial vaccination in Venezuela is much higher than the top two vaccinated countries in that region, approximately tripple that of Uruguay and just under double that of Chile.
+- This is in stark contrast to **Venezuela**, where only **34.58%** of its total population had been vaccinated, of which **21.57%** had received all doses (fully vaccinated), while **13.01%** of those who had been vaccinated, only received one dose (partial vaccination). 
+- We can also deduce that the disparity between full and ***partial*** vaccination in Venezuela is much higher than the top two vaccinated countries in that region, approximately triple that of Uruguay and just under double that of Chile.
 
 ## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
