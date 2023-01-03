@@ -14,9 +14,9 @@
 
 ### Data Grouping and Visualisations
 - **Filters** Start date, end date, continent and country
-- **Stacked bar chart** Vaccinated vs Fully Vaccinated Per Location
-- **Global Map** Geographical Vaccinations per hundred 
-- **Scatter Plot** Vaccinations per GDP
+- **Stacked Bar Chart** Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Location
+- **Global Map** Geographical Vaccinations per hundred (The darker the region, the higher the number of vaccinations)
+- **Scatter Plot** Vaccinations per GDP 
 
 ### Key Performance Predictors(KPI's)
 - **KPI 1** Number of people within global population who are only **partially** vaccinated against COVID 19
@@ -33,6 +33,7 @@
 - We can therefore deduce that: 
 - During the period between 4 Sept 2020 and 25 Oct 2021, **48.74%** of the global population had recieved at least one Covid 19 vaccination dose
  **897,578,271** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **23%.**
+- `There is a strong correlation between the GDP per capita of a region and the number of its population that are fully vaccinated.
  
  ### Demo
  Dashboard filtered to show data for the Continent of South America only
@@ -53,16 +54,19 @@ Key figures for this region during the time period stated now change from the gl
 - During the period between 4 Sept 2020 and 25 Oct 2021, **74.05%** of the ***South American*** population had recieved at least one Covid 19 vaccination dose
 - The number of people who were only **partially** vaccinated stood at 158,464,224 compared to the number of people within global population who are **fully** vaccinated, which stood at 115,489,354.
 - Therefore **42,974,870** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **27%.**
+
  
+### Stacked Bar Chart - Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Country in South America
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294504-ae288f35-647d-4ff1-8694-68dd9c917bd1.png">
 
+## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
 
 
 
-
-<img width="600" alt="Screenshot 2023-01-03 at 01 55 01" src="https://user-images.githubusercontent.com/82414822/210294132-d759e9d5-15a7-40aa-b4dd-80a2c16b4fc2.png">
+## Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
+<img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294132-d759e9d5-15a7-40aa-b4dd-80a2c16b4fc2.png">
 
 
 
