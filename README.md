@@ -68,7 +68,7 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 
 ## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
-
+- The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green.
 
 
 ## Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
