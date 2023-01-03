@@ -65,10 +65,11 @@ Key figures for this region during the time period stated now change from the gl
 In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of those had been fully vaccinated, leaving only **4.09%** of those that had been vaccinated receiving one dose. 
 - This is in stark contrast to **Venezuela**, where only **34.58%** of its total population had been vaccinated, of which **21.57%** had received all doses (fully vaccinated), while **13.01%** of those who had been vaccinated, only received one dose (partial vaccination). 
 - We can also deduce that the disparity between full and ***partial*** vaccination in Venezuela is much higher than the top two vaccinated countries in that region, approximately triple that of Uruguay and just under double that of Chile.
+- Colombia ranks in the middle of the dataset. It is clearly depicted as the country with 6 countries, above it that have a greater percentage of their population vaccinated, and the same number of countries, performing worse than it, with a lower percentage of population vaccinated.
 
 ## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
-- The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green.
+- The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green and Colombia depicted in a hue in the middle of the range of these two extremes.
 
 
 ## Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
