@@ -56,7 +56,7 @@ Key figures for this region during the time period stated now change from the gl
 - Therefore **42,974,870** more people were are only **partially** vaccinated against COVID 19 than those **fully** vaccinated during time period stated, which is a difference of **27%.**
 
  
-### Stacked Bar Chart - Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Country in South America
+## Stacked Bar Chart - Partially Vaccinated (Green) vs Fully Vaccinated(Blue) Per Country in South America
 
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294504-ae288f35-647d-4ff1-8694-68dd9c917bd1.png">
 
