@@ -69,13 +69,14 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 
 ## Global Map - Geographical Vaccinations per Hundred (The darker the region, the higher the number of vaccinations)
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294490-0ca7d572-0cee-4ca6-84ee-f17f11d4127d.png">
+
 - The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green and Colombia depicted in a hue in the middle of the range of these two extremes.
 
 
 ## Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
 <img width="600" alt="marshac713" src="https://user-images.githubusercontent.com/82414822/210294132-d759e9d5-15a7-40aa-b4dd-80a2c16b4fc2.png">
 
-
+- In the scatter plot above, countries in the region are represented by green circles, the data points and a red line of best fit runs through the data points to display the relationship between countries with high rates of vaccination and the GDP per Capita of that country.  This visualisation shows that there is a strong positive correlation between the two variables, as GDP increases so does vaccination rates. Chile and Uruguay are at the top of the graph in the upper right portion of the graph (highest quartile) relatively close to the line, and countries such as Boliva close to the line and in the lowest quartile of the data(bottom left of graph), with countries such as Venezuela being outliers, furthest away from the line of best fit, followed by Suriname for countries with low vaccine take up, and Brazil and Ecuador with relatively higher vaccine take up. Venezuela is not beneath Bolivia in terms of GDP as the trend suggests, likewise for Suriname, which should be between Gayana and Paraguay.  This suggests that additional factors are coming into play for for these countries and the wider sociopolitical climate should be considered for context. 
 
 ## Links 🔗
 - Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
