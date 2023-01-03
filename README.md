@@ -4,6 +4,8 @@
 
 **Tableau Dashboard Covid 19 Vaccination Tracker** which explores what share of the global population had been been either partially or fully vaccinated, during the set time period of **4 Sept 2020** to **25 Oct 2021**
 
+## Process 🎬
+
 ## Visuals 📹
 ### Dashboard Overview
 
@@ -80,7 +82,7 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 <img width="600" alt="marshac713" src="https://media.giphy.com/media/XpQNZKflGLH0vv9OId/giphy.gif">
 
 
-- The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green and Colombia depicted in a hue in the middle of the range of these two extremes.
+The map above confirms above analysis, with Chile and Uruguay, depicted in the darkest hue, denoting the regions with the highest number of vaccinations per hundred and countries such as Venezuela and simular performing regions, showing up in lighter hues of green and Colombia depicted in a hue in the middle of the range of these two extremes.
 
 
 ###  Scatter Plot Total Number of Vaccinations Vs GDP Per Capita
@@ -93,6 +95,9 @@ In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of thos
 - Venezuela is not beneath Bolivia in terms of GDP as the trend suggests, likewise for Suriname, which should be between Gayana and Paraguay. 
 - Brazil and Ecuador with relatively higher vaccine take up are also outliers and not positioned where would expect.   
 - This suggests that additional factors are coming into play for for these countries, with the outliers being more susceptible and that the wider sociopolitical climate should be considered for context. 
+
+<img width="400" alt="">
+
 
 ## Links 🔗
 - Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
