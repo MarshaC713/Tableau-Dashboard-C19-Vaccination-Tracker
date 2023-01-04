@@ -66,7 +66,7 @@ Key figures for this region during the time period stated now change from the gl
 
 - The visualisation above clearly depicts **Chile** as the South American country with the highest number of vaccinations, with **Uruguay** coming in second.
 - In Chile, **84.87%** of the population had recieved at least one dose of the Covid 19 vaccination, **76.14%** of which were fully vaccinated, only **8.73%** were partially vaccinated (only received one dose). 
-In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of those had been fully vaccinated, leaving only **4.09%** of those that had been vaccinated receiving one dose. 
+In Uruguay, **79.14%** of the population had been vaccinated, **75.05%** of those had been fully vaccinated, leaving only **4.09%** of those that had been partially vaccinated. 
 - This is in stark contrast to **Venezuela**, where only **34.58%** of its total population had been vaccinated, of which **21.57%** had received all doses (fully vaccinated), while **13.01%** of those who had been vaccinated, only received one dose (partial vaccination). 
 - We can also deduce that the disparity between full and ***partial*** vaccination in Venezuela is much higher than the top two vaccinated countries in that region, approximately triple that of Uruguay and just under double that of Chile.
 - Colombia ranks in the middle of the dataset. It is clearly depicted as the country with 6 countries, above it that have a greater percentage of their population vaccinated, and the same number of countries, performing worse than it, with a lower percentage of population vaccinated.
@@ -98,24 +98,38 @@ The map above confirms above analysis, with Chile and Uruguay, depicted in the d
 
 ### Demo Drilling Down Further into the Data
 
-<img width="400" alt="https://media.giphy.com/media/htDxjYlfHwSQZxUtVu/giphy.gif">
-- Here I applied the country filter in addition to the continent filter already applied, to identify key figures to support analysis above, spot key trends and demonstrate tableau navigation skills. Visualisations and figures change in correspondence with the filters.
+Here I applied the country filter in addition to the continent filter already applied, to identify key figures to support analysis above, spot key trends and demonstrate tableau navigation skills. Visualisations and figures change in correspondence with the filters.
+
+<img width="400" alt="marshac713" src="https://media.giphy.com/media/htDxjYlfHwSQZxUtVu/giphy.gif">
 
 ## Key GDP Figures:
-- Chile had the highest rate of vaccinations and had a GDP per Capita of
-- Uruguay had the second highest rate of vaccinations and had a GDP per Capita of
-- Colombia had the mid range vaccination rate and had a GDP per Capita of
-- Venezuela had the lowest vaccination rate and had a GDP per Capita of
+- Chile had the ***highest*** rate of vaccinations and had a GDP per Capita of **22,767**
+- Uruguay had the ***second highest*** rate of vaccinations and had a GDP per Capita of **20,551**
+- Colombia had the ***mid-range*** vaccination rate and had a GDP per Capita of **13,255**
+- Venezuela had the ***lowest*** vaccination rate and had a GDP per Capita of **16,745**
 
-<img width="400" alt="">
+## Key Findings:
+- From the data above, we can see that during this time period, Venezuella's vaccinated population had been considerabley lower than Colombia, and yet with a GDP per Capita **23.27% higher**, it would have been expected to be far above this Colombia in vaccine uptake. 
+- A total of **57.21%** of Colombia's population had been partially vaccinated, performing **22.63%** better than Venezuela.
+- Where **39.98%** of Colombia's population had been **fully** vaccinated, out ranking Venezuela, where only **31%** of Venezuela's population had been fully vaccinated.
+- With a GDP of **16,745**, Venezuela's vaccinated population would be expected to be at the approximate mid point between **Brazil** and **Argentina.**
+- Brazil which had a lower GDP than Venezuela of **14,103** far out performed Venezuella's vaccine uptake.   
+- A total of **74.05%** of Brazil's population had recieved at least one dose of the vaccine, performing **39%** better than Venezuela where in contrast, only **34.58%** of the population had been at least partially vaccinated.
+- Where **53.97%** of Brazil's population had been **fully** vaccinated, only **31%** of Venezuela's population had been fully vaccinated in striking comparison.
+
+ 
+I decided to conduct further research to investigate why Venezuella had performed so badly, given that with its GDP it would have been expected to fair better. I identified that during this period, while many other countries (such as Chile, Uruguay, and Colombia) in the South America had all negotiated, well in advance, for the procurement of vaccines and were already implementing vaccination programmes, ahead of time, the Launch and Scale Speedometer shows that Venezuela had not.  Venezuela had no known national COVID-19 vaccine plan, and consequently the supply of vaccines and health care was sporadic, inadequate to meet demand, and unplanned for.  ***Source: The Lancet***
+
+## Conclusion
+My analysis proves there is a strong positive correlation between the share of a regions vaccinated population and it's GDP per capita. This is likely to be due to the wide known correlation between a countries comparative wealth and it's infrastructure.  The greater the infrastucture, the greater a regions capacity to withstand shocks such as the COVID 19 pandemic. However, when there are other stronger variables at play, such as Venezuela's relative failure to take swift coordinated action, negotiate and forward plan in a simular fashion to other countries in the region, the the strong positive correlation and vaccinated population becomes negatively skewed. Thus the wider sociopolitical climate should always be considered for context
 
 ### Links 🔗
-- Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
+- Related Article: [The Lancet, 15.05.2021 - Venezuela is collapsing without COVID-19 vaccines](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00924-7/fulltext)
 
 
 ## Features / Skills Used 🛠
 - Data Comprehension
-- Data Modelling & Transformation
+- Data Mining, Modelling & Transformation
 - Maths & Statistical Analysis
 - Analytical & Visualization Skills
 - Filtering, Sorting and Grouping
