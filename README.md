@@ -120,10 +120,10 @@ Here I applied the country filter in addition to the continent filter already ap
  
 I decided to conduct further research to investigate why Venezuella had performed so badly, given that with its GDP it would have been expected to fair better. I identified that during this period, while many other countries (such as Chile, Uruguay, and Colombia) in the South America had all negotiated, well in advance, for the procurement of vaccines and were already implementing vaccination programmes, ahead of time, the Launch and Scale Speedometer shows that Venezuela had not.  Venezuela had no known national COVID-19 vaccine plan, and consequently the supply of vaccines and health care was sporadic, inadequate to meet demand, and unplanned for.  ***Source: The Lancet***
 
-## Conclusion
+### Conclusion
 My analysis proves there is a strong positive correlation between the share of a regions vaccinated population and it's GDP per capita. This is likely to be due to the wide known correlation between a countries comparative wealth and it's infrastructure.  The greater the infrastucture, the greater a regions capacity to withstand shocks such as the COVID 19 pandemic. However, when there are other stronger variables at play, such as Venezuela's relative failure to take swift coordinated action, negotiate and forward plan in a simular fashion to other countries in the region, the the strong positive correlation and vaccinated population becomes negatively skewed. Thus the wider sociopolitical climate should always be considered for context
 
-### Links 🔗
+## Links 🔗
 - Related Article: [The Lancet, 15.05.2021 - Venezuela is collapsing without COVID-19 vaccines](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00924-7/fulltext)
 
 
