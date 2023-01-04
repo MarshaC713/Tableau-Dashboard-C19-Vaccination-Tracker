@@ -96,8 +96,18 @@ The map above confirms above analysis, with Chile and Uruguay, depicted in the d
 - Brazil and Ecuador with relatively higher vaccine take up are also outliers and not positioned where would expect.   
 - This suggests that additional factors are coming into play for for these countries, with the outliers being more susceptible and that the wider sociopolitical climate should be considered for context. 
 
-<img width="400" alt="">
+### Demo Drilling Down Further into the Data
 
+<img width="400" alt="https://media.giphy.com/media/htDxjYlfHwSQZxUtVu/giphy.gif">
+- Here I applied the country filter in addition to the continent filter already applied, to identify key figures to support analysis above, spot key trends and demonstrate tableau navigation skills. Visualisations and figures change in correspondence with the filters.
+
+## Key GDP Figures:
+- Chile had the highest rate of vaccinations and had a GDP per Capita of
+- Uruguay had the second highest rate of vaccinations and had a GDP per Capita of
+- Colombia had the mid range vaccination rate and had a GDP per Capita of
+- Venezuela had the lowest vaccination rate and had a GDP per Capita of
+
+<img width="400" alt="">
 
 ## Links 🔗
 - Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
