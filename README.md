@@ -109,7 +109,7 @@ The map above confirms above analysis, with Chile and Uruguay, depicted in the d
 
 <img width="400" alt="">
 
-## Links 🔗
+### Links 🔗
 - Demo hosted on: [Portfolio site](https://www.marshacastello.com/s-projects-side-by-side)
 
 
