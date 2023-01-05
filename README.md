@@ -100,7 +100,7 @@ The map above confirms above analysis, with Chile and Uruguay, depicted in the d
 
 Here I applied the country filter in addition to the continent filter already applied, to identify key figures to support analysis above, spot key trends and demonstrate tableau navigation skills. Visualisations and figures change in correspondence with the filters.
 
-<img width="400" alt="marshac713" src="https://media.giphy.com/media/htDxjYlfHwSQZxUtVu/giphy.gif">
+<img width="600" alt="marshac713" src="https://media.giphy.com/media/htDxjYlfHwSQZxUtVu/giphy.gif">
 
 ### Key GDP Figures:
 - Chile had the ***highest*** rate of vaccinations and had a GDP per Capita of **22,767**
