@@ -5,7 +5,7 @@
 **Tableau Dashboard Covid 19 Vaccination Tracker** which explores what share of the global population had been been either partially or fully vaccinated, during the set time period of **4 Sept 2020** to **25 Oct 2021**
 
 ## Process 🎬
-<img src="https://user-images.githubusercontent.com/82414822/211173698-29252753-3a08-4c79-997e-a80fe120c618.png" width="850" height="600" alt="Tableau Dashboard Visual Overview"/>
+<img src="https://user-images.githubusercontent.com/82414822/211173912-e418663e-8338-4a60-bddb-527d1cd6849c.png" width="800" height="450" alt="Tableau Dashboard Visual Overview"/>
 
 
 ## Visuals 📹
